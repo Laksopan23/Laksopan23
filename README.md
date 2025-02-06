@@ -6,9 +6,10 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
+       alt="snake" />
 </div>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laksopan23&label=Profile%20views&color=0e75b6&style=flat" alt="laksopan23" /> </p>
 
