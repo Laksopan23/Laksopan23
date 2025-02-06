@@ -4,6 +4,8 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Laksopan</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
+<!--![snake gif](https://github.com/Laksopan23/Laksopan23/blob/output/github-contribution-grid-snake.gif)-->
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laksopan23&label=Profile%20views&color=0e75b6&style=flat" alt="laksopan23" /> </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -87,4 +89,5 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
