@@ -4,7 +4,11 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Laksopan</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-<!--![snake gif](https://github.com/Laksopan23/Laksopan23/blob/output/github-contribution-grid-snake.gif)-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laksopan23/Laksopan23/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laksopan23/Laksopan23/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Laksopan23/Laksopan23/output/github-snake.svg" />
+</picture>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laksopan23&label=Profile%20views&color=0e75b6&style=flat" alt="laksopan23" /> </p>
 
