@@ -25,7 +25,9 @@
 
 - 📫 How to reach me **laksopan2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Lhzw4rdmkO3mQ_sM8rOese2laapWzSYw/view?usp=sharing](https://drive.google.com/file/d/1Lhzw4rdmkO3mQ_sM8rOese2laapWzSYw/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Lhzw4rdmkO3mQ_sM8rOese2laapWzSYw/view?usp=sharing">
+            <b>My Resume</b>
+          </a>
 
 <br/><br/>
 ## Connect with me<picture><img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 95px></picture>
