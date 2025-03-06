@@ -33,7 +33,7 @@
 ## Connect with me<picture><img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = 95px></picture>
 <div align="center">
   </br>
-  <a href="https://www.linkedin.com/in/RavindranLaksopan/">
+  <a href="https://www.linkedin.com/in/laksopan-ravindran-2109672a5/">
     <img
       src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"
   </a>
