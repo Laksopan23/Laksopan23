@@ -90,9 +90,10 @@
 
 </br>
 
+
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=laksopan23&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="laksopan23" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Laksopan23&theme=dark&show_icons=true&count_private=true" alt="laksopan23"/></td>
     <td><img src="https://nirzak-streak-stats.vercel.app/?user=Laksopan23&theme=dark&hide_border=false" alt="laksopan23" /></td>
   </tr>
 </table>
