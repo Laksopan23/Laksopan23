@@ -48,7 +48,7 @@
   </a>
 </div>
 
-## Skills<picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px></picture> 
+## Skills <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px></picture> 
 
 <picture> <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" ></picture>
 
@@ -90,6 +90,8 @@
 
 </br>
 
+
+## GitHub Stats <picture><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5ybHQ2YmM0ZGpqamYyZG0xbXBieDU1YTJ6cDBwNHpsdDBxNzEwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bmQBu3aSF0DxadphkG/giphy.gif" width = 40px></picture>
 
 <table>
   <tr>
