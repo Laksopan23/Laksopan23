@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **laksopan2001@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1f0fjPpldixQsNe5cMoN2X9fDluToq7Mh/view?usp=sharing">
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1WqSj49DHH3IVZn8vIGH3lnxtuq0sEMgh/view?usp=drive_link">
             <b>My Resume</b>
           </a>
 
