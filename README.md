@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Laksopan+Ravindran;Full-Stack+%26+AI+Engineer;SLIIT+IT+Undergraduate;Building+Intelligent+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravindran+Laksopan;Full-Stack+%26+AI+Engineer;IT+Undergraduate+%40+SLIIT;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -71,6 +73,7 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 | Period | Role | Company | Stack |
 | :--- | :--- | :--- | :--- |
+| Jan 2026 – Present | Freelance Full-Stack & AI Engineer | **Self-Employed** | Next.js, Spring Boot, Laravel, Python, Flutter, AWS |
 | Jun – Dec 2025 | Software Engineer Intern *(Remote)* | **Remotechies** | Next.js, Django, Flutter, Supabase, Coolify |
 | Mar – Sep 2025 | Software Engineer Intern | **DGatewayIn** | React, Node.js, Tailwind CSS, AWS, Hostinger |
 
@@ -85,7 +88,7 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 | **[ProteqHer SOS](https://github.com/Laksopan23/proteqher-sos-listener)** | AI safety app with on-device sound classification for distress detection. | `Flutter` `ML` `Dart` |
 | **[SkillZone](https://github.com/Laksopan23/SkillZone)** | Social skill-sharing platform with OAuth2, real-time feeds, and notifications. | `Spring Boot` `React` `MongoDB` |
 | **[EduInsight](https://github.com/Laksopan23/EduInsight)** | Enterprise school management with AI student assistant (OpenAI). | `Laravel` `PHP` `MySQL` |
-| **[Appointment System](https://github.com/Laksopan23/appointment-booking-system)** | Full-stack booking platform with calendar and auth. | `Next.js` `TypeScript` `PostgreSQL` |
+| **[Appointment System](https://github.com/Laksopan23/appointment-booking-system)** | Full-stack booking platform with calendar and authentication. | `Next.js` `TypeScript` `PostgreSQL` |
 | **[Resume Matcher AI](https://github.com/Laksopan23/resume_matcher_ai)** | Semantic NLP engine for matching resumes to job descriptions. | `Python` `SBERT` `Streamlit` |
 | **[Brain Tumor Detection](https://github.com/Laksopan23/Brain-Tumor-Detection-Models)** | Deep learning CNN model for MRI-based tumor classification. | `PyTorch` `CNN` `Jupyter` |
 
@@ -93,21 +96,30 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Achievements
 
-- 🏅 **Postman API Fundamentals** — Student Expert
-- 🤖 **GenAI 101 with Pieces**
-- 🎓 **Python Programming** — University of Moratuwa
-- 🎓 **Front-End Web Development** — University of Moratuwa
-- 🎓 **Server-Side Web Programming** — University of Moratuwa
+<div align="center">
+
+| Badge | Certification | Issuer |
+| :---: | :--- | :--- |
+| 🏅 | **Postman API Fundamentals** — Student Expert | Postman |
+| 🤖 | **GenAI 101 with Pieces** | Pieces for Developers |
+| 🐍 | **Python for Beginners** | University of Moratuwa |
+| 🌐 | **Front-End Web Development** | University of Moratuwa |
+| 🖥️ | **Server-Side Web Programming** | University of Moratuwa |
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laksopan23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laksopan23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+<!-- Using anuraghazra self-hosted alternative (more stable) -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Laksopan23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Laksopan23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
 </div>
 
 <div align="center">
@@ -135,5 +147,5 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 ---
 
 <div align="center">
-  <sub>© 2026 Laksopan Ravindran · <a href="https://drive.google.com/uc?export=download&id=1UsR0OtsWNldTjpgceVA3hi0xVbb6USve">Download CV</a></sub>
+  <sub>© 2026 Ravindran Laksopan · <a href="https://drive.google.com/uc?export=download&id=1UsR0OtsWNldTjpgceVA3hi0xVbb6USve">Download CV</a></sub>
 </div>
