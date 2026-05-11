@@ -31,7 +31,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" src="https://github.com/Laksopan23.png" width="160px" style="border-radius:8px;margin-left:16px"/>
+<img align="right" src="https://github.com/Laksopan23.png" width="220px" style="border-radius:8px;margin-left:16px"/>
 
 I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building scalable full-stack systems with intelligent AI capabilities. I have real-world experience from internships at two tech companies, with a strong command of the MERN stack, Next.js, Django, and mobile development with Flutter.
 
