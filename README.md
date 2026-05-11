@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D1B2&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravindran+Laksopan;Full-Stack+%26+AI+Engineer;IT+Undergraduate+%40+SLIIT;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravindran+Laksopan;Full-Stack+%26+AI+Engineer;IT+Undergraduate+%40+SLIIT;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,11 +19,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/uc?export=download&id=1UsR0OtsWNldTjpgceVA3hi0xVbb6USve">
-    <img src="https://img.shields.io/badge/Download_CV-00D1B2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Download_CV-3FB950?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=laksopan23&label=Profile+Views&color=00D1B2&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=laksopan23&label=Profile+Views&color=3FB950&style=flat-square" />
 
 </div>
 
@@ -114,22 +114,29 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 ### 📊 GitHub Stats
 
+<!-- Row 1: Profile Summary Cards (reliable, self-hosted) -->
 <div align="center">
-
-<!-- Using anuraghazra self-hosted alternative (more stable) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Laksopan23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Laksopan23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laksopan23&theme=github_dark" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Laksopan23&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laksopan23&theme=github_dark" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laksopan23&theme=github_dark" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Laksopan23&theme=github_dark" height="170"/>
 </div>
 
 <br/>
 
+<!-- Row 2: Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laksopan23&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://streak-stats.demolab.com?user=Laksopan23&theme=github-dark-blue&hide_border=true&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=3FB950&dates=ADBAC7" />
+</div>
+
+<br/>
+
+<!-- Row 3: Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laksopan23&theme=github-compact&hide_border=true&area=true&color=3FB950&line=3FB950&point=ffffff" width="100%"/>
 </div>
 
 ---
@@ -147,5 +154,5 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 ---
 
 <div align="center">
-  <sub>© 2026 Ravindran Laksopan · <a href="https://drive.google.com/uc?export=download&id=1UsR0OtsWNldTjpgceVA3hi0xVbb6USve">Download CV</a></sub>
+  <sub>© 2026 Ravindran Laksopan · <a href="https://drive.google.com/uc?export=download&id=1UsR0OtsWNldTjpgceVA3hi0xVbb6USve">Download CV</a> · <a href="https://github.com/Laksopan23">GitHub Profile</a></sub>
 </div>
