@@ -122,7 +122,6 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laksopan23&theme=github_dark" height="170"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laksopan23&theme=github_dark" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Laksopan23&theme=github_dark" height="170"/>
 </div>
 
 <br/>
