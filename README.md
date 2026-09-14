@@ -66,13 +66,7 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=3" alt="Python, PyTorch, and TensorFlow" />
 
-<a href="https://ai.google.dev/gemini-api"><img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" /></a>
-<a href="https://groq.com"><img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq" /></a>
-<a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /></a>
-<a href="https://www.trychroma.com"><img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square&logoColor=white" alt="ChromaDB" /></a>
-<a href="https://github.com/asweigart/pyautogui"><img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyAutoGUI" /></a>
-<a href="https://github.com/openai/whisper"><img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper" /></a>
-<a href="https://learn.microsoft.com/azure/ai-services/speech-service/text-to-speech"><img src="https://img.shields.io/badge/edge--tts-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="edge-tts" /></a>
+`Gemini` `Groq` `Llama` `Ollama` `ChromaDB` `PyAutoGUI` `Whisper` `edge-tts`
 
 **Database & Cloud**
 
