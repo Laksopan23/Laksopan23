@@ -63,7 +63,8 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 **AI & Desktop Automation**
 
-Python Gemini Groq Llama Ollama ChromaDB PyAutoGUI Whisper edge-tts`n
+`Python` `Gemini` `Groq` `Llama` `Ollama` `ChromaDB` `PyAutoGUI` `Whisper` `edge-tts`
+
 **Database & Cloud**
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,aws,docker,linux&perline=7"/>
@@ -92,7 +93,8 @@ Python Gemini Groq Llama Ollama ChromaDB PyAutoGUI Whisper edge-tts`n
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[PortIntel](https://github.com/Laksopan23/PortIntel)** | AI-powered port intelligence and analytics platform. | `Tauri` `React` `Rust` `ONNX` `TypeScript` |`n| **[OSCAR](https://github.com/Laksopan23/OSCAR)** | Autonomous AI desktop assistant with voice, hybrid vision, semantic memory, and PC automation. | `Python` `Gemini` `Groq` `Ollama` `ChromaDB` |
+| **[PortIntel](https://github.com/Laksopan23/PortIntel)** | AI-powered port intelligence and analytics platform. | `Tauri` `React` `Rust` `ONNX` `TypeScript` |
+| **[OSCAR](https://github.com/Laksopan23/OSCAR)** | Autonomous AI desktop assistant with voice, hybrid vision, semantic memory, and PC automation. | `Python` `Gemini` `Groq` `Ollama` `ChromaDB` |
 | **[ProteqHer SOS](https://github.com/Laksopan23/proteqher-sos-listener)** | In-development AI safety app with on-device sound classification for distress detection. | `Flutter` `ML` `Dart` |
 | **[SkillZone](https://github.com/Laksopan23/SkillZone)** | Social skill-sharing platform with OAuth2, real-time feeds, and notifications. | `Spring Boot` `React` `MongoDB` |
 | **[EduInsight](https://github.com/Laksopan23/EduInsight)** | Enterprise school management with AI student assistant (OpenAI). | `Laravel` `PHP` `MySQL` |
