@@ -152,14 +152,6 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/Laksopan23">
-    <img src="https://img.shields.io/badge/View%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" />
-  </a>
-</div>
-
-<br/>
-
 ---
 
 ### 🐍 Contribution Snake
