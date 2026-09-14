@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Header -->
 <a href="https://laksopan.is-a.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravindran+Laksopan;Full-Stack+%26+AI+Engineer;Associate+Software+Engineer+%40+DGateway+In;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3FB950&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Laksopan+Ravindran;Full-Stack+%26+AI+Engineer;Associate+Software+Engineer;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -66,7 +66,13 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=3" alt="Python, PyTorch, and TensorFlow" />
 
-`Gemini` `Groq` `Llama` `Ollama` `ChromaDB` `PyAutoGUI` `Whisper` `edge-tts`
+<a href="https://ai.google.dev/gemini-api"><img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" /></a>
+<a href="https://groq.com"><img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq" /></a>
+<a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /></a>
+<a href="https://www.trychroma.com"><img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square&logoColor=white" alt="ChromaDB" /></a>
+<a href="https://github.com/asweigart/pyautogui"><img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyAutoGUI" /></a>
+<a href="https://github.com/openai/whisper"><img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="Whisper" /></a>
+<a href="https://learn.microsoft.com/azure/ai-services/speech-service/text-to-speech"><img src="https://img.shields.io/badge/edge--tts-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="edge-tts" /></a>
 
 **Database & Cloud**
 
@@ -74,7 +80,7 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 **Tools & Design**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,tailwind,postman,vscode,vercel&perline=7"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,tailwindcss,postman,vscode,vercel&perline=7" alt="Git, GitHub, Figma, Tailwind CSS, Postman, VS Code, and Vercel" />
 
 </div>
 
