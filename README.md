@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravindran+Laksopan;Full-Stack+%26+AI+Engineer;IT+Undergraduate+%40+SLIIT;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravindran+Laksopan;Full-Stack+%26+AI+Engineer;Software+Engineer+%40+DGateway+In;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,12 +36,12 @@
 
 <img align="right" src="https://github.com/Laksopan23.png" width="220px" style="border-radius:8px;margin-left:16px"/>
 
-I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building scalable full-stack systems with intelligent AI capabilities. I have real-world experience from internships at two tech companies, with a strong command of the MERN stack, Next.js, Django, and mobile development with Flutter.
+I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building scalable full-stack systems with intelligent AI capabilities. I currently work as an Associate Software Engineer and have experience across internships and freelance projects, with a strong command of the MERN stack, Next.js, Django, and mobile development with Flutter.
 
 - 🎓 **B.Sc. (Hons) in IT** — SLIIT Malabe *(Oct 2022 – Present)*
-- 💼 **SWE Intern** @ **Remotechies** & **DGatewayIn** *(2025)*
+- 💼 **Associate Software Engineer** @ **DGateway In** *(Sep 2025 – Present)*`n- 💼 **SWE Intern** @ **Remotechies** *(2025)*
 - 🤖 Exploring **Generative AI**, **NLP**, and **Cloud-native** architectures
-- 📍 Based in **Malabe, Sri Lanka**
+- 📍 Based in **Sri Lanka**
 - 📬 Reach me at **laksopan2001@gmail.com**
 
 <br clear="right"/>
@@ -76,7 +76,7 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 | Period | Role | Company | Stack |
 | :--- | :--- | :--- | :--- |
-| Jan 2026 – Present | Freelance Full-Stack & AI Engineer | **Self-Employed** | Next.js, Spring Boot, Laravel, Python, Flutter, AWS |
+| Sep 2025 – Present | Associate Software Engineer | **DGateway In** | React, TypeScript, Node.js, AWS |`n| Jan 2026 – Present | Freelance Full-Stack & AI Engineer | **Self-Employed** | Next.js, Spring Boot, Laravel, Python, Flutter, AWS | Next.js, Spring Boot, Laravel, Python, Flutter, AWS |
 | Jun – Dec 2025 | Software Engineer Intern *(Remote)* | **Remotechies** | Next.js, Django, Flutter, Supabase, Coolify |
 | Mar – Sep 2025 | Software Engineer Intern | **DGatewayIn** | React, Node.js, Tailwind CSS, AWS, Hostinger |
 
@@ -88,12 +88,12 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[ProteqHer SOS](https://github.com/Laksopan23/proteqher-sos-listener)** | AI safety app with on-device sound classification for distress detection. | `Flutter` `ML` `Dart` |
+| **[PortIntel](https://github.com/Laksopan23/PortIntel)** | AI-powered port intelligence and analytics platform. | `Next.js` `TypeScript` `Python` `AI` |`n| **[ProteqHer SOS](https://github.com/Laksopan23/proteqher-sos-listener)** | In-development AI safety app with on-device sound classification for distress detection. | `Flutter` `ML` `Dart` |
 | **[SkillZone](https://github.com/Laksopan23/SkillZone)** | Social skill-sharing platform with OAuth2, real-time feeds, and notifications. | `Spring Boot` `React` `MongoDB` |
 | **[EduInsight](https://github.com/Laksopan23/EduInsight)** | Enterprise school management with AI student assistant (OpenAI). | `Laravel` `PHP` `MySQL` |
-| **[Appointment System](https://github.com/Laksopan23/appointment-booking-system)** | Full-stack booking platform with calendar and authentication. | `Next.js` `TypeScript` `PostgreSQL` |
-| **[Resume Matcher AI](https://github.com/Laksopan23/resume_matcher_ai)** | Semantic NLP engine for matching resumes to job descriptions. | `Python` `SBERT` `Streamlit` |
-| **[Brain Tumor Detection](https://github.com/Laksopan23/Brain-Tumor-Detection-Models)** | Deep learning CNN model for MRI-based tumor classification. | `PyTorch` `CNN` `Jupyter` |
+| **[Appointment System](https://github.com/Laksopan23/appointment-booking-system)** | Full-stack booking platform with calendar and authentication. | `Next.js` `TypeScript` `PostgreSQL` `Prisma` |
+| **[Resume Matcher AI](https://github.com/Laksopan23/resume_matcher_ai)** | Semantic NLP engine for matching resumes to job descriptions. | `Python` `Streamlit` `SBERT` `TF-IDF` |
+| **[Brain Tumor Detection](https://github.com/Laksopan23/Brain-Tumor-Detection-Models)** | Deep learning CNN model for MRI-based tumor classification. | `TensorFlow` `Keras` `CNN` `VGG19` `InceptionV3` `YOLOv11` |
 
 </div>
 
