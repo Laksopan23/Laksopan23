@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravindran+Laksopan;Full-Stack+%26+AI+Engineer;Software+Engineer+%40+DGateway+In;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://laksopan.is-a.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravindran+Laksopan;Full-Stack+%26+AI+Engineer;Associate+Software+Engineer+%40+DGateway+In;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,11 +36,12 @@
 
 <img align="right" src="https://github.com/Laksopan23.png" width="220px" style="border-radius:8px;margin-left:16px"/>
 
-I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building scalable full-stack systems with intelligent AI capabilities. I currently work as an Associate Software Engineer and have experience across internships and freelance projects, with a strong command of the MERN stack, Next.js, Django, and mobile development with Flutter.
+I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building scalable full-stack systems with intelligent AI capabilities. I currently work as an Associate Software Engineer at DGateway In and also build full-stack and AI products as a freelancer.
 
-- 🎓 **B.Sc. (Hons) in IT** — SLIIT Malabe *(Oct 2022 – Present)*
+- 🎓 **B.Sc. (Hons) in IT** — SLIIT *(2022 – 2026)*
 - 💼 **Associate Software Engineer** @ **DGateway In** *(Sep 2025 – Present)*
-- 💼 **SWE Intern** @ **Remotechies** *(2025)*
+- 💼 **Software Engineer Intern** @ **Remotechies** *(Jun 2025 – Dec 2025)*
+- 💼 **Software Engineer Intern** @ **DGatewayIn** *(Mar 2025 – Sep 2025)*
 - 🤖 Exploring **Generative AI**, **NLP**, and **Cloud-native** architectures
 - 📍 Based in **Sri Lanka**
 - 📬 Reach me at **laksopan2001@gmail.com**
@@ -63,11 +64,13 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 **AI & Desktop Automation**
 
-`Python` `Gemini` `Groq` `Llama` `Ollama` `ChromaDB` `PyAutoGUI` `Whisper` `edge-tts`
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=3" alt="Python, PyTorch, and TensorFlow" />
+
+`Gemini` `Groq` `Llama` `Ollama` `ChromaDB` `PyAutoGUI` `Whisper` `edge-tts`
 
 **Database & Cloud**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,aws,docker,linux&perline=7"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,aws,docker,linux&perline=7"/>
 
 **Tools & Design**
 
@@ -81,10 +84,10 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 | Period | Role | Company | Stack |
 | :--- | :--- | :--- | :--- |
-| Sep 2025 – Present | Associate Software Engineer | **DGateway In** | React, TypeScript, Node.js, AWS |
+| Sep 2025 – Present | Associate Software Engineer | **DGateway In** | React, Node.js, Express, MongoDB, REST APIs, JWT, CI/CD |
 | Jan 2026 – Present | Freelance Full-Stack & AI Engineer | **Self-Employed** | Next.js, Spring Boot, Laravel, Python, Flutter, AWS |
-| Jun – Dec 2025 | Software Engineer Intern *(Remote)* | **Remotechies** | Next.js, Django, Flutter, Supabase, Coolify |
-| Mar – Sep 2025 | Software Engineer Intern | **DGatewayIn** | React, Node.js, Tailwind CSS, AWS, Hostinger |
+| Jun 2025 – Dec 2025 | Software Engineer Intern *(Remote)* | **Remotechies** | Next.js, Django, Flutter, PostgreSQL, Supabase, Coolify |
+| Mar 2025 – Sep 2025 | Software Engineer Intern | **DGatewayIn** | React, Node.js, Tailwind CSS, AWS, Hostinger |
 
 ---
 ### 🌟 Featured Projects
@@ -93,14 +96,14 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[PortIntel](https://github.com/Laksopan23/PortIntel)** | AI-powered port intelligence and analytics platform. | `Tauri` `React` `Rust` `ONNX` `TypeScript` |
-| **[OSCAR](https://github.com/Laksopan23/OSCAR)** | Autonomous AI desktop assistant with voice, hybrid vision, semantic memory, and PC automation. | `Python` `Gemini` `Groq` `Ollama` `ChromaDB` |
-| **[ProteqHer SOS](https://github.com/Laksopan23/proteqher-sos-listener)** | In-development AI safety app with on-device sound classification for distress detection. | `Flutter` `ML` `Dart` |
-| **[SkillZone](https://github.com/Laksopan23/SkillZone)** | Social skill-sharing platform with OAuth2, real-time feeds, and notifications. | `Spring Boot` `React` `MongoDB` |
-| **[EduInsight](https://github.com/Laksopan23/EduInsight)** | Enterprise school management with AI student assistant (OpenAI). | `Laravel` `PHP` `MySQL` |
-| **[Appointment System](https://github.com/Laksopan23/appointment-booking-system)** | Full-stack booking platform with calendar and authentication. | `Next.js` `TypeScript` `PostgreSQL` `Prisma` |
-| **[Resume Matcher AI](https://github.com/Laksopan23/resume_matcher_ai)** | Semantic NLP engine for matching resumes to job descriptions. | `Python` `Streamlit` `SBERT` `TF-IDF` |
-| **[Brain Tumor Detection](https://github.com/Laksopan23/Brain-Tumor-Detection-Models)** | Deep learning CNN model for MRI-based tumor classification. | `TensorFlow` `Keras` `CNN` `VGG19` `InceptionV3` `YOLOv11` |
+| **[PortIntel](https://github.com/Laksopan23/PortIntel)** | Offline-first desktop tool that analyzes active TCP/UDP ports, classifies process risk with embedded ML, and protects critical processes from unsafe termination. | `Tauri` `React` `Rust` `ONNX` `TypeScript` |
+| **OSCAR** *(private project)* | Autonomous AI desktop assistant with voice interaction, hybrid cloud vision, semantic memory, wake-word detection, and PC automation. | `Python` `Gemini` `Groq` `Ollama` `ChromaDB` |
+| **[ProteqHer SOS](https://github.com/Laksopan23/proteqher-sos-listener)** | Privacy-focused safety application in development using on-device sound classification and Android foreground services to respond to distress signals. | `Flutter` `Dart` `TensorFlow Lite` |
+| **[SkillZone](https://github.com/Laksopan23/SkillZone)** | Social learning and skill-sharing platform with Google OAuth2, email/password authentication, learning progress, social feeds, and notifications. | `Spring Boot` `React` `MongoDB` `OAuth2` |
+| **[EduInsight](https://github.com/Laksopan23/EduInsight)** | School management system with role-based workflows for administrators, teachers, students, parents, and guardians, plus an OpenAI-powered student assistant. | `Laravel` `PHP` `MySQL` `OpenAI` |
+| **[Appointment System](https://github.com/Laksopan23/appointment-booking-system)** | Full-stack appointment platform with authentication, calendar views, availability tracking, and optimized scheduling workflows. | `Next.js` `TypeScript` `PostgreSQL` `Prisma` |
+| **[Resume Matcher AI](https://github.com/Laksopan23/resume_matcher_ai)** | Semantic resume-to-job matching tool using Sentence-BERT and TF-IDF similarity scoring with an interactive results interface. | `Python` `Streamlit` `SBERT` `TF-IDF` |
+| **[Brain Tumor Detection](https://github.com/Laksopan23/Brain-Tumor-Detection-Models)** | Deep learning models for MRI-based brain-tumor classification with documented training and evaluation workflows. | `TensorFlow` `Keras` `CNN` `VGG19` `InceptionV3` `YOLOv11` |
 
 </div>
 
