@@ -39,7 +39,8 @@
 I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building scalable full-stack systems with intelligent AI capabilities. I currently work as an Associate Software Engineer and have experience across internships and freelance projects, with a strong command of the MERN stack, Next.js, Django, and mobile development with Flutter.
 
 - 🎓 **B.Sc. (Hons) in IT** — SLIIT Malabe *(Oct 2022 – Present)*
-- 💼 **Associate Software Engineer** @ **DGateway In** *(Sep 2025 – Present)*`n- 💼 **SWE Intern** @ **Remotechies** *(2025)*
+- 💼 **Associate Software Engineer** @ **DGateway In** *(Sep 2025 – Present)*
+- 💼 **SWE Intern** @ **Remotechies** *(2025)*
 - 🤖 Exploring **Generative AI**, **NLP**, and **Cloud-native** architectures
 - 📍 Based in **Sri Lanka**
 - 📬 Reach me at **laksopan2001@gmail.com**
@@ -76,19 +77,20 @@ I'm a **Software Engineer** from 🇱🇰 Sri Lanka, passionate about building s
 
 | Period | Role | Company | Stack |
 | :--- | :--- | :--- | :--- |
-| Sep 2025 – Present | Associate Software Engineer | **DGateway In** | React, TypeScript, Node.js, AWS |`n| Jan 2026 – Present | Freelance Full-Stack & AI Engineer | **Self-Employed** | Next.js, Spring Boot, Laravel, Python, Flutter, AWS | Next.js, Spring Boot, Laravel, Python, Flutter, AWS |
+| Sep 2025 – Present | Associate Software Engineer | **DGateway In** | React, TypeScript, Node.js, AWS |
+| Jan 2026 – Present | Freelance Full-Stack & AI Engineer | **Self-Employed** | Next.js, Spring Boot, Laravel, Python, Flutter, AWS |
 | Jun – Dec 2025 | Software Engineer Intern *(Remote)* | **Remotechies** | Next.js, Django, Flutter, Supabase, Coolify |
 | Mar – Sep 2025 | Software Engineer Intern | **DGatewayIn** | React, Node.js, Tailwind CSS, AWS, Hostinger |
 
 ---
-
 ### 🌟 Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[PortIntel](https://github.com/Laksopan23/PortIntel)** | AI-powered port intelligence and analytics platform. | `Next.js` `TypeScript` `Python` `AI` |`n| **[ProteqHer SOS](https://github.com/Laksopan23/proteqher-sos-listener)** | In-development AI safety app with on-device sound classification for distress detection. | `Flutter` `ML` `Dart` |
+| **[PortIntel](https://github.com/Laksopan23/PortIntel)** | AI-powered port intelligence and analytics platform. | `Next.js` `TypeScript` `Python` `AI` |
+| **[ProteqHer SOS](https://github.com/Laksopan23/proteqher-sos-listener)** | In-development AI safety app with on-device sound classification for distress detection. | `Flutter` `ML` `Dart` |
 | **[SkillZone](https://github.com/Laksopan23/SkillZone)** | Social skill-sharing platform with OAuth2, real-time feeds, and notifications. | `Spring Boot` `React` `MongoDB` |
 | **[EduInsight](https://github.com/Laksopan23/EduInsight)** | Enterprise school management with AI student assistant (OpenAI). | `Laravel` `PHP` `MySQL` |
 | **[Appointment System](https://github.com/Laksopan23/appointment-booking-system)** | Full-stack booking platform with calendar and authentication. | `Next.js` `TypeScript` `PostgreSQL` `Prisma` |
